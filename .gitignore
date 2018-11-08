@@ -1,0 +1,7 @@
+venv
+*.pyc
+__pycache__
+.idea
+build
+dist
+splashclient.egg-info
